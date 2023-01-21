@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paul Tembo , i am an applied computation graduate student at Harvard University in Cambridge , MA.
+- 👋 Hi, I’m Paul Tembo , i am a Data Scientist and an applied computation alumni of Harvard University in Cambridge , MA.
 - 👀 I’m interested in ML/AI and non convex optimization.
 - 🌱 Dabling Bayesian Methods for optimization
 - 💞️ I’m looking to collaborate on anythign realted to ML/AI and Africa
