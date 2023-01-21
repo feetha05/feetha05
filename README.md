@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paul Tembo , i am an applied computation graduate student at Harvard University in Cambridge , MA.
 - 👀 I’m interested in ML/AI and non convex optimization.
-- 🌱 I’m currently learning Bayesian Methods for optimization
+- 🌱 Dabling Bayesian Methods for optimization
 - 💞️ I’m looking to collaborate on anythign realted to ML/AI and Africa
-- 📫 You can reach me by email paultembo@g.harvard.edu
+- 📫 You can reach me by email paultembo@g.harvard.edu or paulttembo@gmail.com
